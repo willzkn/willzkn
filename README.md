@@ -4,7 +4,7 @@
 
 - 🌱 Actualmente me encuentro aprendiendo **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/willzkn](https://github.com/willzkn)
+- 👨‍💻 Mis proyectos se encontraran en [https://github.com/willzkn](https://github.com/willzkn)
 
 - 📫 Como contactarte conmigo **williammorenosaavedra3@gmail.com**
 
