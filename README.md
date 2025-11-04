@@ -1,6 +1,6 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Peru</h3>
 
-- 🔭 Actualmente estoy trabajando en la [Aplicacion web de la botica EcoSalud](https://github.com/willzkn/AplicacionWeb-BoticaEcoSalud)
+- 🔭 Actualmente estoy trabajando [Aplicacion web de la botica EcoSalud](https://github.com/willzkn/AplicacionWeb-BoticaEcoSalud)
 
 - 🌱 Actualmente me encuentro aprendiendo **JavaScript**
 
