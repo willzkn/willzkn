@@ -11,7 +11,6 @@
 - Enfocado en desarrollo **Frontend** con pasión por crear interfaces intuitivas
 - Todos mis proyectos están disponibles en [github.com/willzkn](https://github.com/willzkn)
 - Contáctame en **williammorenosaavedra3@gmail.com**
-- Dato curioso: Me encanta resolver problemas con código y aprender nuevas tecnologías
 
 <br><br><br>
 
