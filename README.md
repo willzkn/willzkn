@@ -1,10 +1,10 @@
-<h1 align="center">Hola, soy William Moreno 👋</h1>
+<h1 align="center">Hola, soy William Moreno</h1>
 <h3 align="center">Desarrollador Frontend apasionado de Perú 🇵🇪</h3>
 <h4 align="center">Construyendo experiencias web modernas y funcionales</h4>
 
 <br><br><br>
 
-## 💫 Sobre mí
+## Sobre mí
 
 - Actualmente estoy trabajando en la [Aplicación Web de la Botica EcoSalud](https://github.com/willzkn/AplicacionWeb-BoticaEcoSalud)
 - Estoy aprendiendo **JavaScript**, **React** y desarrollo web moderno
@@ -26,9 +26,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:williammorenosaavedra3@gmail.com" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="40" width="40" />
-</a>
+
 </p>
 
 <br><br><br>
@@ -62,6 +60,9 @@
   &nbsp;&nbsp;
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
   </a>
 </p>
 
